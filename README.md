@@ -13,7 +13,7 @@ My lifelong passion for technology has left me eager to transition into this fie
 |-----------------------------------------------|----------------------------|
 | Documentation and Reporting                   | Assisted friends with troubleshooting and documented solutions; Self-documentation of personal projects|
 | Linux/Windows CLI                             | Regular use of command-line interfaces for system administration and troubleshooting|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | [SOC Automation Lab](https://github.com/Castro-Erick/SIEM-Install)|
 | Network Traffic Monitoring and Attack Detection | Analyzed network traffic using Wireshark and tcpdump to investigate malware download|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
