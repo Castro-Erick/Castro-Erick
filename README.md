@@ -26,6 +26,9 @@ My lifelong passion for technology has left me eager to transition into this fie
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-lightgrey?style=for-the-badge&logo=linux&logoColor=white" />
+    <a href="https://www.credly.com/badges/1d637c22-9474-432b-a01a-d9330a4a4277/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+    </a>
 </div>
 
 
