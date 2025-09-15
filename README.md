@@ -1,5 +1,8 @@
 # Hello, I'm Erick Castro
 <a href="linkedin.com/in/erick-castro-1183a62a2"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.credly.com/badges/1d637c22-9474-432b-a01a-d9330a4a4277/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+    </a>
 
 I am an individual with a profound interest in technology and a dedication to solving complex problems.
 
@@ -26,9 +29,6 @@ My lifelong passion for technology has left me eager to transition into this fie
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-lightgrey?style=for-the-badge&logo=linux&logoColor=white" />
-    <a href="https://www.credly.com/badges/1d637c22-9474-432b-a01a-d9330a4a4277/public_url" target="_blank">
-      <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-    </a>
 </div>
 
 
